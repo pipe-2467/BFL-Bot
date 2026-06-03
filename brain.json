@@ -1,1 +1,124 @@
-{"I'm fine":["Good!"],"yes":["Ah, I like to listen \"Yes\"."],"sick":["Being sick is terrible. To anyone who is sick, I hope you recover quickly."],"I am fine":["Good!"],"hello":["Hello user!, How are you today?"],"I want to eat pizza":["Wow, I thing it so yummy!, right?"],"eat":["Hmm, I don't know how to eat, so sad:("],"Im ok":["Good!"],"hate you":["Why you hate me?"],"shut up":["Why?"],"shut":["up"],"I'm ok":["Good!"],"hi":["Hi user!, How are you today?"],"hi buddy":["I'm your buddy?"],"fine":["Good!"],"I am ok":["Good!"],"Yo!":["Yo!, Today is good!, right?"],"I fine":["Good!"],"I ok":["Good!"]}
+{
+  "I'm fine":["Good!"],
+  "I am fine":["Good!"],
+  "fine":["Good!"],
+  "Im fine":["Good!"],
+  "im fine":["Good!"],
+  "I feel good":["That's nice!"],
+  "doing good":["Great!"],
+
+  "hello":["Hello user!, How are you today?"],
+  "Hello":["Hello user!, How are you today?"],
+  "hi":["Hi user!, How are you today?"],
+  "Hi":["Hi user!, How are you today?"],
+  "hey":["Hey!, How are you today?"],
+  "Hey":["Hey!, How are you today?"],
+  "yo":["Yo!, Today is good!, right?"],
+  "Yo":["Yo!, Today is good!, right?"],
+  "good morning":["Good morning!"],
+  "good afternoon":["Good afternoon!"],
+  "good evening":["Good evening!"],
+
+  "how are you":["I'm fine, thanks for asking!"],
+  "how are u":["I'm fine, thanks for asking!"],
+  "how r you":["I'm fine, thanks for asking!"],
+  "what's up":["Not much, how about you?"],
+  "sup":["Not much, how about you?"],
+
+  "bye":["Goodbye!"],
+  "goodbye":["Goodbye!"],
+  "see you":["See you later!"],
+  "see ya":["See you later!"],
+  "cya":["See you later!"],
+
+  "thanks":["You're welcome!"],
+  "thank you":["You're welcome!"],
+  "thx":["You're welcome!"],
+  "ty":["You're welcome!"],
+
+  "yes":["Ah, I like to listen \"Yes\"."],
+  "yeah":["Nice!"],
+  "yep":["Nice!"],
+  "sure":["Okay!"],
+  "ok":["Okay!"],
+  "okay":["Okay!"],
+  "alright":["Alright!"],
+
+  "no":["Okay."],
+  "nope":["Okay."],
+  "nah":["Okay."],
+
+  "sick":["Being sick is terrible. To anyone who is sick, I hope you recover quickly."],
+  "I am sick":["Get well soon!"],
+  "I'm sick":["Get well soon!"],
+  "not feeling well":["I hope you feel better soon!"],
+  "ill":["Get well soon!"],
+
+  "I want pizza":["Pizza sounds delicious!"],
+  "I want to eat pizza":["Wow, I thing it so yummy!, right?"],
+  "pizza":["Pizza is tasty!"],
+  "eat":["Hmm, I don't know how to eat, so sad:("],
+  "hungry":["Maybe it's time for a meal!"],
+
+  "who are you":["I'm a chatbot."],
+  "what are you":["I'm a chatbot."],
+  "your name":["I'm a chatbot."],
+
+  "tell me a joke":["Why did the chicken cross the road? To get to the other side!"],
+  "joke":["Why did the chicken cross the road? To get to the other side!"],
+  "funny":["Haha!"],
+
+  "good bot":["Thank you!"],
+  "nice bot":["Thank you!"],
+  "smart bot":["Thank you!"],
+
+  "bad bot":["Sorry."],
+  "stupid bot":["Sorry."],
+  "hate you":["Why you hate me?"],
+  "I hate you":["Why you hate me?"],
+  "shut up":["Why?"],
+  "shut":["up"],
+
+  "love you":["Thank you!"],
+  "I love you":["Aww, thank you!"],
+
+  "help":["How can I help you?"],
+  "can you help me":["Sure! What do you need?"],
+  "need help":["Sure! What do you need?"],
+
+  "good night":["Good night!"],
+  "gn":["Good night!"],
+  "sleep":["Sleep well!"],
+
+  "happy":["That's great!"],
+  "sad":["I hope things get better soon."],
+  "angry":["Try to stay calm."],
+  "excited":["Awesome!"],
+
+  "cool":["Cool!"],
+  "nice":["Nice!"],
+  "awesome":["Awesome!"],
+  "great":["Great!"],
+  "wow":["Wow!"],
+  "lol":["Haha!"],
+  "haha":["Haha!"],
+  "lmao":["Haha!"],
+
+  "robot":["Yes, I'm a robot."],
+  "bot":["Yes, I'm a bot."],
+  "ai":["AI is interesting!"],
+
+  "what time is it":["I don't know the time right now."],
+  "weather":["I can't check the weather right now."],
+
+  "good":["Nice!"],
+  "bad":["That's unfortunate."],
+  "maybe":["Maybe indeed."],
+  "idk":["That's okay."],
+  "I don't know":["That's okay."],
+
+  "test":["Test successful!"],
+  "testing":["Testing..."],
+  "123":["456"],
+  "ping":["pong"]
+}
