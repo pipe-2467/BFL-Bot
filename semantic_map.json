@@ -1,0 +1,7 @@
+{
+  "concepts": {
+    "attack": ["hit", "strike", "hurt", "kill", "damage", "punch"],
+    "help": ["support", "assist", "save", "rescue", "protect", "heal"],
+    "insult": ["toxic", "mean", "rude", "bad_talk", "trash"]
+  }
+}
