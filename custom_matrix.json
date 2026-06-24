@@ -5,7 +5,10 @@
     "devitrifies": -1.25,
     "punctuating": -1.25,
     "doppio": -1.25,
-    "muscadet": -1.25
+    "muscadet": -1.25,
+    "technician": -0.5,
+    "hoofbeat": -0.5,
+    "saucers": -0.5
   },
   "hello": {
     "zinkier": -1.25,
